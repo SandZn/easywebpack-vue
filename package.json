@@ -9,10 +9,7 @@
   ],
   "dependencies": {
     "easywebpack": "^4.11.5",
-    "vue-entry-loader": "^1.1.2",
-    "vue-html-loader": "^1.2.4",
-    "vue-loader": "^15.7.0",
-    "vue-template-compiler": "^2.6.10"
+    "vue-loader": "^15.7.0"
   },
   "devDependencies": {
     "axios": "^0.18.0",
